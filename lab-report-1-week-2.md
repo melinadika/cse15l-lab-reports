@@ -1,1 +1,1 @@
-![Link](basicStylesScreenshot)
+![Link](basicStylesScreenshot.png)
